@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928594769851",
+    "project_id": "stomrig-driver",
+    "storage_bucket": "stomrig-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928594769851:android:9ba66c8398689b8f5ab69e",
+        "android_client_info": {
+          "package_name": "com.stomrig.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928594769851-ghghlhslaqio9hra3ehemh2apc8iomdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mQDtJHU40_0ZIAuLVPgn0szfYAdhHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928594769851-ghghlhslaqio9hra3ehemh2apc8iomdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
